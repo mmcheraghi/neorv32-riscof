@@ -3,3 +3,8 @@
 	url = https://github.com/riscv-non-isa/riscv-arch-test.git
 	branch = main
 	ignore = dirty
+[submodule "neorv32"]
+	path = neorv32
+	url = https://github.com/mmcheraghi/neorv32.git
+	branch = main
+	ignore = dirty
