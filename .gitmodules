@@ -1,6 +1,6 @@
 [submodule "neorv32"]
 	path = neorv32
-	url = https://github.com/stnolting/neorv32.git
+	url = https://github.com/mmcheraghi/neorv32.git
 	ignore = dirty
 [submodule "riscv-arch-test"]
 	path = riscv-arch-test
